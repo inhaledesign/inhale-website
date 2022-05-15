@@ -4,9 +4,9 @@ sidebar_sort_order: 0
 title: Mission
 ---
 
-I'm an app developer focused on creating [products with innovative user experiences.](projects.html) If you have a vision for an app you'd like to collaborate on, please [get in touch!](contact.html)
+I'm an app developer focused on creating [unique products with innovative user experiences.](projects.html) If you have a vision for an app you'd like to collaborate on, please [get in touch!](contact.html)
 
-## Reinvent the Wheel
+## Reinventing Wheels
 
 Modern hardware has the potential to break us free from interfaces of the past. There are many opportunities to bring new life to tired old designs. We just need to put the work in.
 

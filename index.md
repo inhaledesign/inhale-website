@@ -1,6 +1,6 @@
 ---
 layout: category
-sidebar_sort_order: 0
+sidebar_sort_order: 1
 title: Mission
 ---
 

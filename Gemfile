@@ -41,3 +41,4 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "jekyll-theme-hydeout", "~> 3.4"
+gem "webrick", "~> 1.7"

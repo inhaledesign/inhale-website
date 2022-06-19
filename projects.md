@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Projects
-sidebar_sort_order: 50
+sidebar_sort_order: 2
 ---     
 
 ## ShapeArt 2022 (in development)

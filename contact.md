@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Contact
-sidebar_sort_order: 100
+sidebar_sort_order: 5
 ---
 
 ![Portrait of Bob Liberatore][portrait]

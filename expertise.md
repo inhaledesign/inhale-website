@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Expertise
-sidebar_sort_order: 10
+sidebar_sort_order: 3
 ---
 
 ## Android

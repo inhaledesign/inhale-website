@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Creating a Test Module"
+title: "Creating a Tests Module"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
-series_order: 3
+series_order: 4
+description: "Create a module to run GoogleTests on your other modules."
 ---
 
-## {{ page.subtitle }}
 Now that we've got some tools and an empty project, we're going to set up our testing framework.
 
 For now, we're going to use VS Code to create and edit code files, but actually compile from the command line. In the next section, we'll talk about how to use all of this through the IDE.

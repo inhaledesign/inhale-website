@@ -3,9 +3,9 @@ layout: post
 title: "Setup"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
 series_order: 2
+description: "Download all the big things."
 ---
 
-## {{ page.subtitle }}
 You're going to need to get the development tools onto your computer. Make sure you have a book handy, or a nice hike to go on. You're going to be doing some time consuming download and builds, and you'll want to have something healthier to do than sitting and staring at progress bars.
 
 It's worth mentinoning that you'll need some serious hard drive space available. On my computer, my UE5 directory takes up 105GB. This includes both the source code and intermediate build files.

@@ -21,7 +21,7 @@ title: Articles
 
     {% assign seriesPosts = posts | where: "series", currentSeries | sort: "series_order" %}
     {% for post in seriesPosts %}
-* [{{ post.title }}][{{ post.url }}]
+* [{{ post.title }}]({{ post.url }}){% if post.description %} -- {{ post.description }}{% endif %}
     {% endfor %}
 
   {% endfor %}

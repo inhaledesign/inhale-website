@@ -3,9 +3,9 @@ layout: post
 title: "Integrating with VS Code"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
 series_order: 5
+description: "How to build and run our tests from within VS Code."
 ---
 
-## {{ page.subtitle }}
 The integration with UE still leaves a lot to be desired. For reasons we'll get into, IDE integration is a bit hard for UE and requires accepting that we can only ever do the best we can with what we've got (or can afford).
 
 ### Unreal Editor Settings

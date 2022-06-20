@@ -2,10 +2,10 @@
 layout: post
 title: "The UE Build System"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
-series_order: 4
+series_order: 3
+description: "An overview of the Unreal Engine build system, and why it has to cause headaches."
 ---
 
-## {{ page.subtitle }} 
 ### (or, "Why Using C++ With UE Hurts So Bad")
 Anyone who tells you that they know how the Unreal build system works is lying to you. Fullstop. It is a dark place that [drives people mad.][compiling-unreal]
 

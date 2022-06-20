@@ -3,7 +3,6 @@ layout: post
 title: "Setup"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
 series_order: 2
-date: "22-06-19 2:00"
 ---
 
 ## {{ page.subtitle }}

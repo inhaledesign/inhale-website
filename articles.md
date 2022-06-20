@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: main
+sidebar_link: true
 sidebar_sort_order: 4
 title: Articles
 ---

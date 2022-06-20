@@ -3,7 +3,6 @@ layout: post
 title: "The UE Build System"
 series: "Unreal Engine 5: Getting Started with C++, GoogleTest, and VS Code"
 series_order: 4
-date: "22-06-19 4:00"
 ---
 
 ## {{ page.subtitle }} 

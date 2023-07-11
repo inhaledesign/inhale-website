@@ -6,8 +6,6 @@ title: Mission
 ---
 I'm a passionate app developer dedicated to crafting **exceptional products** that deliver **innovative user experiences.** If you're looking for someone to collaborate with on your app vision, let's connect and bring it to life! You can reach out to me [here](contact.html).
 
-## Reinventing Wheels
-
 ## Revolutionizing User Experiences
 Unlock the true potential of modern hardware and break free from the constraints of outdated interfaces. It's time to breathe new life into tired designs. Together, we can **reinvent the wheel** and create captivating apps that redefine user interactions.
 

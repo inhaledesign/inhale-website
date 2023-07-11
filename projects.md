@@ -7,26 +7,26 @@ sidebar_sort_order: 2
 
 ## ShapeArt 2022 (in development)
 
-ShapeArt is a geometric art app being developed in Unreal Engine 5. The vision is to enable people to quickly make beautiful 2D and 3D geometric art.
+ An upcoming geometric art app currently under development in Unreal Engine 5. This visionary project aims to empower users to effortlessly create stunning 2D and 3D geometric masterpieces.
 
-Development is being done in C++ and Blueprint. Special attention is being invested in setting up a workflow that contains unit tests in C++ and integrationS tests in Blueprint.
+The development of ShapeArt revolves around the utilization of C++ and Blueprint, ensuring a powerful and flexible foundation. Special attention is given to establishing a streamlined workflow, encompassing unit tests in C++ and integration tests in Blueprint.
 
-## Modern Compass 2020-21
 
-[Modern Compass][compass] is an exploration is modernizing a  tool: the magnetic compass. It contains multiple presenters, ranging from the functional (placing a compass in the Android notification bar) to the esoteric (a three dimensional compass).  
+## [Modern Compass](compass) (2020-21)
 
-Concerted effort was made to avoid skeupmorphisms that many compass apps include.  Degree notches on a compass are imprecise and pointless on a digital interface. Modern Compass instead enables you to point your device in a direction to get a precise readout of your heading.
+An innovative project that updates the magnetic compass. It offers various features, including integrating the compass into the Android notification bar and introducing a three-dimensional compass.
 
-Modern Compass was written using test-driven development and boasts over 90% test coverage.
+I focused on a clean design by removing unnecessary skeuomorphic elements. Modern Compass allows you to determine your precise heading by simply pointing your device in the desired direction, eliminating the need for unnecssary degree notches on a digital interface.
 
-## Tile Farm 2014-18
+Developed using a test-driven approach, Modern Compass boasts extensive test coverage of over 90%.
+
+## [Tile Farm](tilefarm) (2014-18)
 *Former Co-founder and Principal Developer*
 
- [Tile Farm][tilefarm] is a collaboration between myself and a professional mathematician who wanted a tool for teaching math to everyone from kindergarteners to postdocs. 
+ Teaming up with a professional mathematician, we embarked on a mission to transform math education by crafting an exceptional app that caters to learners of every age and diverse educational backgrounds.
 
- The outcome is a unique, engaging app that is particularly well suited for constructivist teaching.
+Tile Farm delivers an unparalleled and captivating learning experience, designed to align with constructivist teaching methodologies. Its unique approach has garnered immense acclaim from students, educators, school administrators, and influential figures within the realm of STEM education. Notably, Tile Farm's groundbreaking contributions were honored with the prestigious SBIR grant from the National Science Foundation.
 
- Tile Farm received incredible validation from students, teachers, school administrators, and leaders in STEM education. It went on to receive an SBIR grant from the National Science Foundation.
 
 [tilefarm]: https://play.google.com/store/apps/details?id=com.stellatesoftware.tilefarm.dev
 [compass]: http://play.google.com/store/apps/details?id=design.inhale.compass

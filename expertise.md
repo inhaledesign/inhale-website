@@ -6,16 +6,17 @@ sidebar_sort_order: 3
 ---
 
 ## Android
-I have 8 years of developing native <i class="fab fa-android fa-lg" style="color:#78C257"/> Android apps. Android is the most [widely used operating system in the world][os-usage]. Android apps have a potential to reach a *huge* audience.
+With 8 years of experience in developing native Android apps, I have honed my skills in creating exceptional applications for the [widely used Android operating system][os-usage]. The vast user base of Android presents an incredible opportunity to reach a massive audience.
 
 ## Unreal
-I'm currently working with Epic's Unreal Engine in C++ and Blueprint. This allows me to creater a well tested Model layer in C++ while utilizing a powerful graphics engine for the View and Controller layers.
+I am proficient in working with Epic's Unreal Engine, utilizing both C++ and Blueprint. This combination allows me to create a robust Model layer in C++ while leveraging the power of a cutting-edge graphics engine for the View and Controller layers.
 
-## Process
-I strongly believe that good process creates quality experiences. Every project is a creative endeavor, and the process must continuously evolve to the project's unique needs. I work hard to maintain a development process that focuses on collaboratively delivering a clear vision.
+## Process-driven Approach
+I firmly believe that a well-defined process is the foundation of delivering high-quality experiences. Every project is a unique creative endeavor, and I continuously adapt the development process to suit its specific requirements. By fostering collaboration and maintaining a clear vision, I ensure optimal results.
 
 ## Tools
-I can use a wide variety of different technologies in my development stack:
+My development stack encompasses a wide range of technologies, including:
+
 * Languages: Java, Kotlin, C++, OpenGL ES
 * Architectures: MVVM, MVP, MVI
 * Deployment: Play Store, Deploygate, Aptoide, Fastlane
@@ -25,6 +26,6 @@ I can use a wide variety of different technologies in my development stack:
 * Project Management: Gitlab, Git
 
 ## Education
-I have bachelor's degrees in philosophy, psychology, and political science from the University of New Mexico, with an interdisciplinary focus on rationality.
+I hold bachelor's degrees in philosophy, psychology, and political science from the University of New Mexico. My interdisciplinary focus on rationality enhances my ability to approach app development with a well-rounded perspective.
 
 [os-usage]: http://en.wikipedia.org/wiki/Usage_share_of_operating_systems
